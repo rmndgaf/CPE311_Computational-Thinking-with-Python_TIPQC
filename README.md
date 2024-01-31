@@ -8,13 +8,13 @@
 
 <b>Course Contents:</b>
 <li>🍏 <b>Prelim</b></li>
-<li>Introduction to Computational Thinking</li>
+<ol><li>Introduction to Computational Thinking</li>
 <li>Optimization, Decision Trees, Graphs</li>
-<li>Algorithmic Thinking, Problem Solving and Abstraction</li>
+<li>Algorithmic Thinking, Problem Solving and Abstraction</li></ol>
 <li>📊 <b>Midterm</b></li>
-<li>Fundamentals of Data Analysis and Tools</li>
+<ol><li>Fundamentals of Data Analysis and Tools</li>
 <li>Fundamental Data Engineering</li>
-<li>Data Visualization using Pandas, Matplotlib and Seaborn</li>
+<li>Data Visualization using Pandas, Matplotlib and Seaborn</li></ol>
 <li>🏁 <b>Finals</b></li>
 <ol><li>Data Analytics with Python</li>
 <li>Introduction to Machine Learning</li>
